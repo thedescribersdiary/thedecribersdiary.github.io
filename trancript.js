@@ -4,4 +4,5 @@ $(document).ready(function(){
     $( "#transcript3" ).load( "transcript3.html" );
     $( "#transcript4" ).load( "transcript4.html" );
     $( "#transcript5" ).load( "transcript5.html" );
+    $( "#transcript6" ).load( "transcript6.html" );
    });
